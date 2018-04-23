@@ -11,6 +11,12 @@
   display: flex;
 }
 
+.brand {
+  margin: -1em;
+  border-radius: 0em;
+  line-height: 3.25em;
+}
+
 .header h1 {
   color: white;
 }
